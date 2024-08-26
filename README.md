@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Sturgis
 
 I'm the founder of SE AI, a passionate Data Science student at UTSA, and a self-taught software developer. I love turning ideas into reality through code and am constantly exploring the intersections of AI, data science, and software development.
 
@@ -38,17 +38,17 @@ I'm the founder of SE AI, a passionate Data Science student at UTSA, and a self-
 
 ## 🌟 Featured Projects
 
-- **[SE AI Platform](https://github.com/YourUsername/se-ai-platform)**: Revolutionizing education with AI and blockchain.
-- **[Data Science Portfolio](https://github.com/YourUsername/data-science-portfolio)**: A collection of data science projects, including analysis and machine learning.
-- **[Personal Website](https://github.com/YourUsername/personal-website)**: My personal website showcasing my journey and projects.
+- **[SE AI Platform](https://github.com/SEAIinitiative)**: Revolutionizing education with AI and blockchain.
+
+Check out more of my projects [here](https://github.com/?tab=repositories).
 
 ---
 
 ## 📫 How to Reach Me
 
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/YourUsername/)
-- Twitter: [@YourTwitter](https://twitter.com/YourTwitter)
-- Email: youremail@example.com
+- LinkedIn:
+- Twitter:
+- Email:
 
 ---
 
@@ -57,14 +57,6 @@ I'm the founder of SE AI, a passionate Data Science student at UTSA, and a self-
 - Contribute to open source projects
 - Collaborate with other developers on exciting projects
 - Land a role as a Software Developer/Data Scientist
-
----
-
-## 🏆 Achievements
-
-- Certified in [Relevant Certifications]
-- Winner of [Relevant Hackathons or Competitions]
-- Speaker at [Relevant Events or Meetups]
 
 ---
 
