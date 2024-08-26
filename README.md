@@ -40,7 +40,7 @@ I'm the founder of SE AI, a passionate Data Science student at UTSA, and a self-
 
 - **[SE AI Platform](https://github.com/SEAIinitiative)**: Revolutionizing education with AI and blockchain.
 
-Check out more of my projects [here](https://github.com/?tab=repositories).
+Check out more of my projects [here](https://github.com/sturgis-steele?tab=repositories).
 
 ---
 
