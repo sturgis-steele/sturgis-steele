@@ -30,7 +30,7 @@ I'm the founder of SE AI, a passionate Data Science student at UTSA, and a self-
 
 ## Certifications
 
-- [freeCodeCamp Certification - Responsive Web Design](https://www.freecodecamp.org/certification/yourusername/responsive-web-design)
+- [freeCodeCamp Certification - Responsive Web Design](https://www.freecodecamp.org/certification/Sturgis/responsive-web-design)
 
 ---
 ## 📈 My GitHub Stats
