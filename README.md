@@ -1,76 +1,52 @@
-# Hi there! 👋 I'm Sturgis
+# STURGIS STEELE
 
-I'm the founder of SE AI, a passionate Data Science student at UTSA, and a self-taught software developer. I love turning ideas into reality through code and am constantly exploring the intersections of AI, data science, and software development.
-
----
-
-## 🚀 About Me
-
-- 🎓 **Data Science Student at UTSA**: Currently sharpening my skills in data analysis, machine learning, and statistics.
-- 👨‍💻 **Founder of SE AI**: Leading an initiative to revolutionize education with AI and blockchain technology.
-- 💻 **Self-Taught Software Developer**: Learning and building software solutions outside of the classroom.
-- 📚 **Continuous Learner**: Always curious and always learning. Whether it's new frameworks, languages, or technologies, I'm always up for the challenge.
+> Offline intelligence. Resilient systems. Autonomous infrastructure.
 
 ---
 
-## 🔧 Technologies & Tools
+## DIRECTION
 
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" alt="Python" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" alt="HTML5" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" alt="Godot" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" alt="LaTeX" width="40" height="40"/>
+Building systems that continue to operate under constraint.
 
-</p>
+Focus areas:
+
+- Offline AI (local-first, no external dependency)
+- Resilient infrastructure (failure-tolerant, self-contained)
+- Hardware-integrated systems (compute + control)
+- Autonomous execution (systems that act, not just respond)
 
 ---
 
-## Certifications
+## CURRENT WORK
 
-- [Responsive Web Design Certification](https://www.freecodecamp.org/certification/Sturgis/responsive-web-design)
-
----
-## 📈 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical" alt="Your GitHub Stats" />
-</p>
+- Developing **ODYSSEY** — a local-first AI system
+- Expanding a self-hosted compute environment (Proxmox + GPU nodes)
+- Designing systems that remain operational without internet access
+- Integrating AI with physical hardware and real-world inputs
 
 ---
 
-## 🌟 Featured Projects
+## STACK
 
-- **[SE AI Platform](https://github.com/SEAIinitiative)**: Revolutionizing education with AI and blockchain.
-
-Check out more of my projects [here](https://github.com/sturgis-steele?tab=repositories).
-
----
-
-## 📫 How to Reach Me
-
-- LinkedIn:
-- Twitter:
-- Email:
+- Python / TypeScript / Bash  
+- Local LLMs (Ollama)  
+- Proxmox / Debian / self-hosted services  
 
 ---
 
-## 🎯 Goals
+## APPROACH
 
-- Contribute to open source projects
-- Collaborate with other developers on exciting projects
-- Land a role as a Software Developer/Data Scientist
+- Systems > tools  
+- Local-first > cloud-dependent  
+- Modularity over monoliths  
+- Execution over abstraction  
 
----
+Everything is built with one constraint in mind:
 
-## 📅 What's Next?
-
-- Continue developing SE AI and expanding its impact
-- Explore new data science projects and collaborations
-- Keep pushing the boundaries of what's possible with technology
+> It must continue to function when external systems fail.
 
 ---
 
-Thanks for visiting my GitHub profile! Let's connect and build something awesome together!
+## STATUS
+
+Active build phase.
